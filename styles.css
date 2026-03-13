@@ -5,17 +5,17 @@
 
     justify-content: center;
     align-items: center;
-    background-color: rgb(227, 134, 240);
+    background-color: rgb(134, 240, 152);
     display: flex;
     border-radius: 10px;
     
 }
 body {
-    background-color: rgb(35, 13, 87);
+    background-color: rgb(112, 198, 224);
 }
 .cachorro{
     color: rgb(0, 0, 0);
-    background-color: rgb(90, 11, 238);
+    background-color: rgb(11, 238, 41);
     border-radius: 10px;
     width: 500px;
     justify-content: center;
